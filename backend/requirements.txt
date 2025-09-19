@@ -2,5 +2,6 @@ fastapi
 uvicorn
 pydantic
 google-ads
+gunicorn
 
 
